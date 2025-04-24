@@ -1,0 +1,4 @@
+ID,Name,Parameter
+1,radius_capsule,12.0f
+2,height_capsule,30.0f
+3,scale_transform,0.1f
